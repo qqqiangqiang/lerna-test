@@ -1,6 +1,6 @@
 {
   "name": "module-1",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.4",
-    "module-2": "2.0.1"
+    "module-2": "^2.0.2"
   }
 }
